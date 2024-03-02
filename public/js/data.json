@@ -1,0 +1,5888 @@
+[
+    {
+        "tgl_registrasi": "2024-03-23",
+        "no_rkm_medis": "080931",
+        "nm_pasien": "ARTATIAS SIMANJUNTAK",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-22",
+        "no_rkm_medis": "086949",
+        "nm_pasien": "NURMALA RUSDIANA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-22",
+        "no_rkm_medis": "087084",
+        "nm_pasien": "PUTRI MAUDI SETIA RAHAYUNINGTIAS",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "078484",
+        "nm_pasien": "MAISAROH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "069513",
+        "nm_pasien": "MASTINA HANDAYANI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "061741",
+        "nm_pasien": "SUPARMI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "084291",
+        "nm_pasien": "SULIAMAH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "071453",
+        "nm_pasien": "IMAM WAHYUDI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "061358",
+        "nm_pasien": "SUSANTO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "002300",
+        "nm_pasien": "MATENI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-21",
+        "no_rkm_medis": "073658",
+        "nm_pasien": "AGASTHYA MAHARTA ARUMARMAHDI ",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2024-03-20",
+        "no_rkm_medis": "064837",
+        "nm_pasien": "SOEMJAT RISTAM",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-20",
+        "no_rkm_medis": "079529",
+        "nm_pasien": "HARRY HERMAN NAYOAN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-20",
+        "no_rkm_medis": "063292",
+        "nm_pasien": "IRAWATI LIEM",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-20",
+        "no_rkm_medis": "087017",
+        "nm_pasien": "OKTAVIA DWI CAHYANI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "064837",
+        "nm_pasien": "SOEMJAT RISTAM",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "065366",
+        "nm_pasien": "BAMBANG PRIJAMBODO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "011592",
+        "nm_pasien": "MUSTIAH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "085065",
+        "nm_pasien": "NATASYA GLADIS AYU INTANSARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "030808",
+        "nm_pasien": "DJANATOEN",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-19",
+        "no_rkm_medis": "081655",
+        "nm_pasien": "KASHADI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-18",
+        "no_rkm_medis": "086047",
+        "nm_pasien": "MAKBUL QADAR",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-18",
+        "no_rkm_medis": "082365",
+        "nm_pasien": "ROBY ARDIANSYAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-18",
+        "no_rkm_medis": "086936",
+        "nm_pasien": "JUNIANTO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-15",
+        "no_rkm_medis": "055032",
+        "nm_pasien": "MARNOVA HARRISON",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-03-14",
+        "no_rkm_medis": "052245",
+        "nm_pasien": "AMIN ROHYATI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-14",
+        "no_rkm_medis": "085360",
+        "nm_pasien": "PUTRI WULAN SARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-14",
+        "no_rkm_medis": "083720",
+        "nm_pasien": "NESYA AGUSTIN WULANDARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-14",
+        "no_rkm_medis": "085588",
+        "nm_pasien": "DHIRA OKTA RIANDA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "084466",
+        "nm_pasien": "ANIEK",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "010078",
+        "nm_pasien": "YUDO RUDIANTO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "086706",
+        "nm_pasien": "NURIYATI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "086626",
+        "nm_pasien": "IDA SIH SUTJI ARIATI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "084161",
+        "nm_pasien": "SUTIK",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "082655",
+        "nm_pasien": "E. LENNY SRI INDARWATI, SE",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "079878",
+        "nm_pasien": "FITRI ANNISA  RAMADHANI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "081528",
+        "nm_pasien": "JONI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-03-13",
+        "no_rkm_medis": "086252",
+        "nm_pasien": "RIA SETIAWANTI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "085990",
+        "nm_pasien": "WIDASARI PRATAMI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "081637",
+        "nm_pasien": "RESA ISA PALUPI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "064650",
+        "nm_pasien": "KHUMAIDAH",
+        "nm_dokter": "Pria Istjahja Utama dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "086725",
+        "nm_pasien": "RIZKI CAHYANINGATI HANIFAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "026571",
+        "nm_pasien": "FRANSISCA DWI SETYOWATI MAMELAS",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "086801",
+        "nm_pasien": "ACHMAD ZICO ZAKWAN",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "086101",
+        "nm_pasien": "DINDA KHARISMANING SUKMA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "085175",
+        "nm_pasien": "PUTRI FARADIANA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "086090",
+        "nm_pasien": "ANIK SETIYOWATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "084907",
+        "nm_pasien": "SUSANTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "084634",
+        "nm_pasien": "JUMAROH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-08",
+        "no_rkm_medis": "084581",
+        "nm_pasien": "MEYLINA DWI SANTOSO",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "085974",
+        "nm_pasien": "ULIL ABSOR",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "015518",
+        "nm_pasien": "MUDRIKAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "079515",
+        "nm_pasien": "ENDANG IROWATI, DRA",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "005621",
+        "nm_pasien": "VANDHITYA RENANINGTYAS",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "005408",
+        "nm_pasien": "VALENTINA RINDY DEARASTRESIA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "082664",
+        "nm_pasien": "MUDJI ASTUTIK",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "072954",
+        "nm_pasien": "WARAS",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "067116",
+        "nm_pasien": "AJENG FITRINIA ALIFIA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "080171",
+        "nm_pasien": "ASNAINUL CHAFIFAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-03-07",
+        "no_rkm_medis": "086048",
+        "nm_pasien": "YANTO HERYANTO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-06",
+        "no_rkm_medis": "078498",
+        "nm_pasien": "MINCE KISMARINI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-05",
+        "no_rkm_medis": "026192",
+        "nm_pasien": "YUDI SUGIARTO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-05",
+        "no_rkm_medis": "080518",
+        "nm_pasien": "RUKMIATI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-05",
+        "no_rkm_medis": "074093",
+        "nm_pasien": "FRISCYA DWI PASYA",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "051947",
+        "nm_pasien": "AS. SUCIANTI ",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "085595",
+        "nm_pasien": "SAPARI DARMARAYA",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "086354",
+        "nm_pasien": "SUJONO",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "065366",
+        "nm_pasien": "BAMBANG PRIJAMBODO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "082821",
+        "nm_pasien": "SUMINAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "086066",
+        "nm_pasien": "LANDEP",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "085127",
+        "nm_pasien": "KHOIRUL ANAM",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-03-04",
+        "no_rkm_medis": "075363",
+        "nm_pasien": "DAMAI INDAH JELITA SIMANJUNTAK",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-02",
+        "no_rkm_medis": "086388",
+        "nm_pasien": "SOEDARSINI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-03-02",
+        "no_rkm_medis": "081083",
+        "nm_pasien": "FERY SETIAWAN",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "036153",
+        "nm_pasien": "RISCHA METHA CHRISTINE",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "081096",
+        "nm_pasien": "RATNA HADIYATI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "082046",
+        "nm_pasien": "PONIMAH ",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "077705",
+        "nm_pasien": "KAMAH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "000939",
+        "nm_pasien": "DYAH SRI PURWITANINGSIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "082655",
+        "nm_pasien": "E. LENNY SRI INDARWATI, SE",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-03-01",
+        "no_rkm_medis": "086910",
+        "nm_pasien": "SITI RAHAYU",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "084421",
+        "nm_pasien": "PURWADI UTOMO",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "040578",
+        "nm_pasien": "NOVARIO NICHOLAS PUTRA",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "081903",
+        "nm_pasien": "NUR LAILI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "084677",
+        "nm_pasien": "SITI AMINAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "076226",
+        "nm_pasien": "SUMARDI, SH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "047944",
+        "nm_pasien": "DYAH ANAWATI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "087094",
+        "nm_pasien": "RANNY MAYANGSARI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "086252",
+        "nm_pasien": "RIA SETIAWANTI",
+        "nm_dokter": "Adeline Jovita Tambayong, drg., Sp.KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "086860",
+        "nm_pasien": "ERLINDA FATMANERY",
+        "nm_dokter": "Adeline Jovita Tambayong, drg., Sp.KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-29",
+        "no_rkm_medis": "065450",
+        "nm_pasien": "DEWI AMBARAWATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "000816",
+        "nm_pasien": "MAMIK SUSIATI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "086612",
+        "nm_pasien": "SIGIT NOVIANTO TRANGGONO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "085293",
+        "nm_pasien": "SITI ROHMA SOLIKHATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "073305",
+        "nm_pasien": "EVI MAYASARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "065268",
+        "nm_pasien": "MUGIONO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "014648",
+        "nm_pasien": "NOVI ANGGRAINI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "027763",
+        "nm_pasien": "INDAH WATI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "073336",
+        "nm_pasien": "WINDA MARIA NINGRUM",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "086989",
+        "nm_pasien": "LAILI FAUZIAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "068729",
+        "nm_pasien": "ALIYATUS SALMA KHALISA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "085209",
+        "nm_pasien": "SUSAN PUSPITA ANGGRAENI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-28",
+        "no_rkm_medis": "086139",
+        "nm_pasien": "SULAIMAH",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "005886",
+        "nm_pasien": "JINANGKUNG RETNOADI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "083382",
+        "nm_pasien": "SUYATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "072615",
+        "nm_pasien": "MARIA CHATARINA KOELASRI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "022122",
+        "nm_pasien": "GALUH MEGA DAYINTA",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086081",
+        "nm_pasien": "ABIZAR FALZAN PUTRA AFRIANTO",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086729",
+        "nm_pasien": "EPIFANIA PETRUS",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "073388",
+        "nm_pasien": "FIRMANINGSIH WINAYUN",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "076057",
+        "nm_pasien": "SUWARTILAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086698",
+        "nm_pasien": "LARAS TRI YULITASARI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "050975",
+        "nm_pasien": "ASLIKAN",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "072683",
+        "nm_pasien": "MAWARSIH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "012387",
+        "nm_pasien": "JULI ISWAHYUNINGSIH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "079576",
+        "nm_pasien": "MAHREEN SHAFANA ALMAHYRA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "020433",
+        "nm_pasien": "SUNENTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "078893",
+        "nm_pasien": "ANANG ISKANDAR",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "002631",
+        "nm_pasien": "BAMBANG BOEDI KOESTANTO",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086892",
+        "nm_pasien": "IMAM SOFII",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086985",
+        "nm_pasien": "ANGGA ARDY PRAHANA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "086843",
+        "nm_pasien": "DIMAH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "073445",
+        "nm_pasien": "SUDARJATI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "087045",
+        "nm_pasien": "ABDUL GONI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "087036",
+        "nm_pasien": "SUWINAH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "084589",
+        "nm_pasien": "SUSIATI NINGSIH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "080931",
+        "nm_pasien": "ARTATIAS SIMANJUNTAK",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "084606",
+        "nm_pasien": "SUNAH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "085679",
+        "nm_pasien": "MARYUDI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "080359",
+        "nm_pasien": "HYPHEN PANGETI MAMELAS",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "040773",
+        "nm_pasien": "LILIS SUSILISTYORINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "065385",
+        "nm_pasien": "AUDY YUDY MARKUS DUMANAUW",
+        "nm_dokter": "Adeline Jovita Tambayong, drg., Sp.KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "084696",
+        "nm_pasien": "SAMIAN",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "082930",
+        "nm_pasien": "RENITA NOVI ANGGRIANI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "082104",
+        "nm_pasien": "AFIFAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "076583",
+        "nm_pasien": "YUDI ATANTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "072782",
+        "nm_pasien": "SUYATMI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-27",
+        "no_rkm_medis": "022075",
+        "nm_pasien": "MEI LIEN KUSUMA DEWI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "046098",
+        "nm_pasien": "AMELIA SUGIANTO",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086715",
+        "nm_pasien": "SEDARYANI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "031010",
+        "nm_pasien": "LEON BERNARDINO",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "077438",
+        "nm_pasien": "JULAIKAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086467",
+        "nm_pasien": "ENDAH ZAHID",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "034321",
+        "nm_pasien": "JOVAN OKTAVIANO MUNHALIM",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "080858",
+        "nm_pasien": "APRILIA RACHMADANI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "075009",
+        "nm_pasien": "ONGKO WARISAN HIDAYAT",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "085891",
+        "nm_pasien": "MAY KHOMSYATIN",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "085477",
+        "nm_pasien": "YUYUN WAHYUNINGSIH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086611",
+        "nm_pasien": "YAKUB ISMAIL",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "084422",
+        "nm_pasien": "BUGINEM",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "074145",
+        "nm_pasien": "AGUS TAUFIQ HIDAYAT",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086792",
+        "nm_pasien": "SELI CYNTHIA PUSPITASARI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "033387",
+        "nm_pasien": "LINA WIDHIASIH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "085165",
+        "nm_pasien": "PURWANTO",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "050742",
+        "nm_pasien": "ANGGA MARDIARTI",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "080107",
+        "nm_pasien": "ALIMAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "072923",
+        "nm_pasien": "ENDANG SOELISTYOWATI SIHAB",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "080366",
+        "nm_pasien": "EDI REBO SUPRIYANTO",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "083113",
+        "nm_pasien": "MAGHFIROH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086505",
+        "nm_pasien": "SUMADYO WIDYARTO",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "082328",
+        "nm_pasien": "SOLIKHATUN",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "079782",
+        "nm_pasien": "ZAINURI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086856",
+        "nm_pasien": "NUR SAADAH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "002631",
+        "nm_pasien": "BAMBANG BOEDI KOESTANTO",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "086941",
+        "nm_pasien": "SULIYANI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "068822",
+        "nm_pasien": "TSALIS IMROATUN SYAFAAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "065266",
+        "nm_pasien": "MARTINI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "084223",
+        "nm_pasien": "AFSANA CHESSY ESHAL",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "000844",
+        "nm_pasien": "NANIK SURYANINGSIH",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "073445",
+        "nm_pasien": "SUDARJATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "071265",
+        "nm_pasien": "AINI WIDIYAWATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "085126",
+        "nm_pasien": "KARUNI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "010611",
+        "nm_pasien": "MARMIASIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "079178",
+        "nm_pasien": "KARMANI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "064979",
+        "nm_pasien": "JARIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "087000",
+        "nm_pasien": "BAYI NYONYA AFRISCA ROSITA ULANSARI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "064979",
+        "nm_pasien": "JARIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "078498",
+        "nm_pasien": "MINCE KISMARINI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "087003",
+        "nm_pasien": "MOCHAMAD RIANTO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "066080",
+        "nm_pasien": "ACHMAD RYO PRATAMA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "062489",
+        "nm_pasien": "KHOIRIYAH",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "080104",
+        "nm_pasien": "AGUS EKO WAHYU PRAMUDIONO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "065450",
+        "nm_pasien": "DEWI AMBARAWATI",
+        "nm_dokter": "dr. Rini Kusumawar Dhany, Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-26",
+        "no_rkm_medis": "022075",
+        "nm_pasien": "MEI LIEN KUSUMA DEWI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "084469",
+        "nm_pasien": "NAYLA NAFISAH AZZAHRA",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "017040",
+        "nm_pasien": "SHERLY DARISSALAMAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "060235",
+        "nm_pasien": "ANA MASLUKHA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "066719",
+        "nm_pasien": "SUWIDJI UTAMI, Hj",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "062489",
+        "nm_pasien": "KHOIRIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "037653",
+        "nm_pasien": "SUGIYATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "087072",
+        "nm_pasien": "NIHLAH ROHMANIYAH",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "000939",
+        "nm_pasien": "DYAH SRI PURWITANINGSIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "077629",
+        "nm_pasien": "SAID",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "018328",
+        "nm_pasien": "LA ODE GADI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-24",
+        "no_rkm_medis": "085785",
+        "nm_pasien": "SUPRIATIN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084739",
+        "nm_pasien": "SUMARNO PAIDI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "062610",
+        "nm_pasien": "MARIA FRANSISKA SAHERTIAN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "081235",
+        "nm_pasien": "RANIA FAIHANA PUTRI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085531",
+        "nm_pasien": "MEI TRI SUTANTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079435",
+        "nm_pasien": "EKA FERIYANA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085204",
+        "nm_pasien": "DWI ERTININGSIH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085001",
+        "nm_pasien": "ETIK KUSUMAWATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "072039",
+        "nm_pasien": "CHOIRIYAH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079884",
+        "nm_pasien": "MULYATI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "083501",
+        "nm_pasien": "HOTLAMRIA DAMANIK",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "001994",
+        "nm_pasien": "HETI ISWARI",
+        "nm_dokter": "Eric Tanoto., dr, Sp.N"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "075891",
+        "nm_pasien": "KHUDRIYAH",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "064979",
+        "nm_pasien": "JARIYAH",
+        "nm_dokter": "Pria Istjahja Utama dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085614",
+        "nm_pasien": "MAULIDYA HALIANA PUTRI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086704",
+        "nm_pasien": "REYSTA EVRIGA APRILLIA PUTRI ",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086637",
+        "nm_pasien": "CANDRA AYU PUSVITA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086638",
+        "nm_pasien": "SRI RAHAYU",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "055632",
+        "nm_pasien": "ADIASAN",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086776",
+        "nm_pasien": "IRSALINA RAMADHANI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "070467",
+        "nm_pasien": "NURUL MAULIDIYAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "021227",
+        "nm_pasien": "RIBUT MARIYONO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "065450",
+        "nm_pasien": "DEWI AMBARAWATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085239",
+        "nm_pasien": "SESTRIADJENG",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "067837",
+        "nm_pasien": "YAYIK WIDIYAWATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086964",
+        "nm_pasien": "MISRAN",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086705",
+        "nm_pasien": "AGUS YOHANES",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086930",
+        "nm_pasien": "BUNARIP",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086245",
+        "nm_pasien": "SUTRIONO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "000306",
+        "nm_pasien": "WEDARWATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084421",
+        "nm_pasien": "PURWADI UTOMO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "061758",
+        "nm_pasien": "SALAMAH, HJ",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "068293",
+        "nm_pasien": "SRI HARTUTIK",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084442",
+        "nm_pasien": "MUNARAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "017071",
+        "nm_pasien": "SUHARTIN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084422",
+        "nm_pasien": "BUGINEM",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "074145",
+        "nm_pasien": "AGUS TAUFIQ HIDAYAT",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "037710",
+        "nm_pasien": "KAYLA UMASANGADJI",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085165",
+        "nm_pasien": "PURWANTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "080602",
+        "nm_pasien": "RINI ANJASNI PUTRI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084936",
+        "nm_pasien": "WELAS PUJI PRASETYORINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "076387",
+        "nm_pasien": "SUCIATI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084739",
+        "nm_pasien": "SUMARNO PAIDI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085256",
+        "nm_pasien": "REHAN ASRORI SUKRISTYONO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "078498",
+        "nm_pasien": "MINCE KISMARINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "083207",
+        "nm_pasien": "SITI AMINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "005489",
+        "nm_pasien": "AYU DITYA RANCAKASARI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "072039",
+        "nm_pasien": "CHOIRIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "014270",
+        "nm_pasien": "SRI ASTUTIK",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "065956",
+        "nm_pasien": "ENDAH KRISTIANI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085625",
+        "nm_pasien": "LILIS SURYANI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "081503",
+        "nm_pasien": "ELIS AFIANTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "078971",
+        "nm_pasien": "PILIHAN NINGSIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "026571",
+        "nm_pasien": "FRANSISCA DWI SETYOWATI MAMELAS",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079439",
+        "nm_pasien": "PUPUT SURYANINGSIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086467",
+        "nm_pasien": "ENDAH ZAHID",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "060204",
+        "nm_pasien": "RUDI PRAYITNO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086672",
+        "nm_pasien": "ISTIQOMAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079804",
+        "nm_pasien": "PURWANINGTYAS",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085773",
+        "nm_pasien": "DARKADI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "073219",
+        "nm_pasien": "SANTOSO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "058085",
+        "nm_pasien": "SITI NGAISAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086021",
+        "nm_pasien": "WAGINING",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "071550",
+        "nm_pasien": "NATALIANA WAHYUDIANY",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084228",
+        "nm_pasien": "SHAFIA AMALIA ZAHRA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "082010",
+        "nm_pasien": "NARTIK",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "082020",
+        "nm_pasien": "RAHAYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "037653",
+        "nm_pasien": "SUGIYATI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "083451",
+        "nm_pasien": "ROHMAT ARIF",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "057411",
+        "nm_pasien": "RIBKA RUKIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087063",
+        "nm_pasien": "AKHTAR MARKANDAYA SUGIHARTO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "073445",
+        "nm_pasien": "SUDARJATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "083961",
+        "nm_pasien": "SRI DESI ARMADANI BUDIARTI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087065",
+        "nm_pasien": "BAMBANG SANTOSO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "083993",
+        "nm_pasien": "NAMA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "067241",
+        "nm_pasien": "MINARNI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "061181",
+        "nm_pasien": "DIAN KRISTININGTYAS MAMELAS",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087066",
+        "nm_pasien": "ASMIYANI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "080012",
+        "nm_pasien": "PUTIAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085729",
+        "nm_pasien": "ANITA WAHYUNANIE",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "069591",
+        "nm_pasien": "ACHMAD SUUDI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086611",
+        "nm_pasien": "YAKUB ISMAIL",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "075568",
+        "nm_pasien": "ELLYS DYAH AKYUNI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086629",
+        "nm_pasien": "SUHARDI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "078637",
+        "nm_pasien": "SUPARTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "011592",
+        "nm_pasien": "MUSTIAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084020",
+        "nm_pasien": "M. RIZKI ARDIANTO",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087076",
+        "nm_pasien": "APRILLIA SALSABILA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087077",
+        "nm_pasien": "SUHENDIK",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086899",
+        "nm_pasien": "SITI JULAIKAH",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085235",
+        "nm_pasien": "FIRLIANA ZALFA NUR FAIZAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "077789",
+        "nm_pasien": "HARI SUBAGYO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "082871",
+        "nm_pasien": "KHARIS MAULANA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079927",
+        "nm_pasien": "UDIN WASISTO UTOMO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "080743",
+        "nm_pasien": "MARINI HANDAYANI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "054027",
+        "nm_pasien": "AGUSTINA PUSPITA RINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086288",
+        "nm_pasien": "PUTRI CANTIKO RAMADHAN",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085816",
+        "nm_pasien": "AHMAD FADLULLOH JAMIL AR ROSYID",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084746",
+        "nm_pasien": "ENGGAR PAMULARSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085905",
+        "nm_pasien": "EKA PUTRIANA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "084180",
+        "nm_pasien": "RAHMAWATI LUTFIYAH DEWI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "085126",
+        "nm_pasien": "KARUNI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086777",
+        "nm_pasien": "PUNGKY IRAWAN",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "067638",
+        "nm_pasien": "SRI NINGSIH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "079432",
+        "nm_pasien": "BIMAS BUKIN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "047592",
+        "nm_pasien": "SUSINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "072770",
+        "nm_pasien": "LAILA ZULFAH",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "048614",
+        "nm_pasien": "JUMADIANTO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086789",
+        "nm_pasien": "SUWARTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "081486",
+        "nm_pasien": "RIYONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "087090",
+        "nm_pasien": "ANA NUR JANNAH",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "063224",
+        "nm_pasien": "LILIK NUR AINI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "063600",
+        "nm_pasien": "MUSYAROFAH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "086962",
+        "nm_pasien": "DEVI HAJAR AISAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "046369",
+        "nm_pasien": "TITIEK PRASETYATI INSAMODRO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "077469",
+        "nm_pasien": "NURUL WANDA AZIZAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2024-02-23",
+        "no_rkm_medis": "072895",
+        "nm_pasien": "NURHAYATI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "080366",
+        "nm_pasien": "EDI REBO SUPRIYANTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086754",
+        "nm_pasien": "ABDUL AZIZ JAELANI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "025416",
+        "nm_pasien": "SITI JUWANAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086837",
+        "nm_pasien": "BERLINDA ERLY SANDI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "023821",
+        "nm_pasien": "WEDARWATI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "084506",
+        "nm_pasien": "RAUL ZAHRAAN ARYADIKA PRATAMA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "016970",
+        "nm_pasien": "DYAH AYU PURWANINGSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "067760",
+        "nm_pasien": "BASRI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "052964",
+        "nm_pasien": "ALYA SYAFIA AZZAHRA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086026",
+        "nm_pasien": "YULIA NIKMATUS SHOLIKHAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086260",
+        "nm_pasien": "SITI MARIATUL KIFTIYAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "084160",
+        "nm_pasien": "BINTI ISTIQOMAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085875",
+        "nm_pasien": "WIDIA ANGGREINI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "065932",
+        "nm_pasien": "DWI SUNARSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "065266",
+        "nm_pasien": "MARTINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086789",
+        "nm_pasien": "SUWARTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "083876",
+        "nm_pasien": "NGATIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "022075",
+        "nm_pasien": "MEI LIEN KUSUMA DEWI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "074224",
+        "nm_pasien": "AUNUR ROFIQ",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "073349",
+        "nm_pasien": "YUDHI SUPARMO",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086981",
+        "nm_pasien": "DIZA PERMATASARI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086923",
+        "nm_pasien": "CANDRA MUJI WIBOWO",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086923",
+        "nm_pasien": "CANDRA MUJI WIBOWO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "050358",
+        "nm_pasien": "SAUTIK",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085082",
+        "nm_pasien": "ASMIAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "068213",
+        "nm_pasien": "ERMAULID JANNAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "078484",
+        "nm_pasien": "MAISAROH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086167",
+        "nm_pasien": "OKTAVIANA RATNA ANGGITA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "078824",
+        "nm_pasien": "SUNDAYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "006519",
+        "nm_pasien": "BAMBANG CAHYO WASITO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "065366",
+        "nm_pasien": "BAMBANG PRIJAMBODO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085492",
+        "nm_pasien": "MIMIK NURJANTI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086221",
+        "nm_pasien": "SUNAIDAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086902",
+        "nm_pasien": "KHASANAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "069009",
+        "nm_pasien": "SUMIATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "019831",
+        "nm_pasien": "MERTA ARYANI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "012277",
+        "nm_pasien": "RISDIONO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "054630",
+        "nm_pasien": "DWI YULIANTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "077117",
+        "nm_pasien": "PENI RAHAYUNINGSIH HIDAYAT",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086757",
+        "nm_pasien": "SILVIA AILILL WANINGSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086079",
+        "nm_pasien": "IKNA VIRGONIA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085747",
+        "nm_pasien": "VINA WIDYASARI, ST",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "056041",
+        "nm_pasien": "YOFFA AKMALUZZAIN PUTRA FIRDAUS",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086239",
+        "nm_pasien": "MELLYSA QUEENTADIRA DWI KARINA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "084507",
+        "nm_pasien": "BUDI SETYAWAN",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "082822",
+        "nm_pasien": "MUHAMMAD ANGGA PRATAMA PUTRA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "083094",
+        "nm_pasien": "MOCHAMMAD DAVI AR ROSYID",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086429",
+        "nm_pasien": "MIFTAHIYYATUL UMMAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "047092",
+        "nm_pasien": "MAYA DWI DESTIANA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "087058",
+        "nm_pasien": "FITRI ARIANTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "000844",
+        "nm_pasien": "NANIK SURYANINGSIH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "041732",
+        "nm_pasien": "SELI AMIKASARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "082362",
+        "nm_pasien": "FATIM FUROIDA NINGTYAS",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "084777",
+        "nm_pasien": "BUDI UTOMO",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "080810",
+        "nm_pasien": "ARRASYA NIZAM AFFANDI SETIAWAN",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "081171",
+        "nm_pasien": "INA PRAMESTI HERYANI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "032275",
+        "nm_pasien": "ANDENA YUSNIA HAKIM",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "054102",
+        "nm_pasien": "SITI MUSLIKAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "081096",
+        "nm_pasien": "RATNA HADIYATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "065039",
+        "nm_pasien": "SRI MUFARIANI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086546",
+        "nm_pasien": "SITI FATIMAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "078249",
+        "nm_pasien": "SATUMI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "063012",
+        "nm_pasien": "GAHZY FEBRIANYAHRIL SYAPUTRA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086575",
+        "nm_pasien": "SUCI PAWENI",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085717",
+        "nm_pasien": "SERLY MEISISTA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "054992",
+        "nm_pasien": "RADEN PRABASWARA BATARA KRAMAWIJAYA",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "083212",
+        "nm_pasien": "FITRI WULANDARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "000114",
+        "nm_pasien": "RR. HENDRIANI",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "017887",
+        "nm_pasien": "RIADIN RUSDIANTO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "059275",
+        "nm_pasien": "EMMY LITAWATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "040114",
+        "nm_pasien": "SUKASIH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085514",
+        "nm_pasien": "YATI BUDIARSIH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086745",
+        "nm_pasien": "NANDA ALIFATUL KHOMAROH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086177",
+        "nm_pasien": "ACHMAD HARTONO",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "082355",
+        "nm_pasien": "SRIWATTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "051596",
+        "nm_pasien": "FAZIO RIZKY WIDYATMIKO",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "073857",
+        "nm_pasien": "RUCHIANAH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "036251",
+        "nm_pasien": "DANIEL ADI FIRMANTO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086990",
+        "nm_pasien": "KEYLA DWI AINURRAHMA",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "080157",
+        "nm_pasien": "FATHIAN EVANO RAFFASYA",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "069680",
+        "nm_pasien": "ERIZA KARTIKASARI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "053779",
+        "nm_pasien": "NANANG SYAM RAHMANA",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "087002",
+        "nm_pasien": "PAULUS FERDINANDUS",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "087095",
+        "nm_pasien": "SUARIF",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "087096",
+        "nm_pasien": "BETA NIYA ANA SETYANINGSIH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "073463",
+        "nm_pasien": "OKY LASARIS",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "007969",
+        "nm_pasien": "CIKAL GALIH SAHASIKA",
+        "nm_dokter": "Adeline Jovita Tambayong, drg., Sp.KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "080039",
+        "nm_pasien": "LIVANNIARTI WIJAYA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "078376",
+        "nm_pasien": "RUMINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "086894",
+        "nm_pasien": "YUDI INDRAMAWAN",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "085696",
+        "nm_pasien": "IRAWATI",
+        "nm_dokter": "Adeline Jovita Tambayong, drg., Sp.KG"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "074098",
+        "nm_pasien": "MAHBUBAH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2024-02-22",
+        "no_rkm_medis": "045791",
+        "nm_pasien": "CHRISTIAN FERVENT DWI TIMOTHY",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2024-02-19",
+        "no_rkm_medis": "055929",
+        "nm_pasien": "ANTHINA PAULINA TIVEN",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-16",
+        "no_rkm_medis": "067153",
+        "nm_pasien": "MUHAMMAD NAUFAL ATHALLA",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2024-02-15",
+        "no_rkm_medis": "084641",
+        "nm_pasien": "UNANDRIES PURNOMO,ST",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2024-02-07",
+        "no_rkm_medis": "042655",
+        "nm_pasien": "HAFIZ DWI STARIAL",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-05",
+        "no_rkm_medis": "086924",
+        "nm_pasien": "FANDY PRATAMA NUR ARDI ANSYAH",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-02-02",
+        "no_rkm_medis": "080102",
+        "nm_pasien": "MUDJI WARAS",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2024-01-21",
+        "no_rkm_medis": "086466",
+        "nm_pasien": "LISA TALITHA KIRANA",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-20",
+        "no_rkm_medis": "086453",
+        "nm_pasien": "DULATIM",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-17",
+        "no_rkm_medis": "024821",
+        "nm_pasien": "AGATHA EMERALDA SISTYAS",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-17",
+        "no_rkm_medis": "086419",
+        "nm_pasien": "MOCHAMAD ANAS VALENTINO RISKY YUDHA R",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-12",
+        "no_rkm_medis": "053379",
+        "nm_pasien": "PRIA ISTJAHJA UTAMA,DR SP.PD",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-12",
+        "no_rkm_medis": "086611",
+        "nm_pasien": "YAKUB ISMAIL",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-10",
+        "no_rkm_medis": "083003",
+        "nm_pasien": "AINI YULIA HIDAYATI",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2024-01-08",
+        "no_rkm_medis": "004922",
+        "nm_pasien": "FERRY ANDREAS NUGROHO",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2024-01-08",
+        "no_rkm_medis": "043242",
+        "nm_pasien": "NILA AYUNI SUCIPTO",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-28",
+        "no_rkm_medis": "047592",
+        "nm_pasien": "SUSINI",
+        "nm_dokter": "Ardin Agusta Nata Mulya, dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-28",
+        "no_rkm_medis": "025976",
+        "nm_pasien": "HIZKIA BARA PUTRA HARTONO",
+        "nm_dokter": "Ardin Agusta Nata Mulya, dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-27",
+        "no_rkm_medis": "050210",
+        "nm_pasien": "EDWIN PRIVENTA SUGIARTO",
+        "nm_dokter": "Ardin Agusta Nata Mulya, dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-22",
+        "no_rkm_medis": "085935",
+        "nm_pasien": "UKI WIJAYANTO",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-22",
+        "no_rkm_medis": "016148",
+        "nm_pasien": "BAMBANG SETYOBUDI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-22",
+        "no_rkm_medis": "057689",
+        "nm_pasien": "LILIS INDAH W",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-12-19",
+        "no_rkm_medis": "085842",
+        "nm_pasien": "DIAH AYU SUSILOWURDANI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-12-19",
+        "no_rkm_medis": "085743",
+        "nm_pasien": "RUMADI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-12-08",
+        "no_rkm_medis": "085641",
+        "nm_pasien": "SUGIARNI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-12-08",
+        "no_rkm_medis": "085598",
+        "nm_pasien": "NINIK MAHFUDLOTIN",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-12-06",
+        "no_rkm_medis": "072850",
+        "nm_pasien": "KHRISTIANA NALURI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-11-24",
+        "no_rkm_medis": "054169",
+        "nm_pasien": "SUHERNANTIN",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-11-17",
+        "no_rkm_medis": "056456",
+        "nm_pasien": "WIWIK HARIYANTI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-11-17",
+        "no_rkm_medis": "079579",
+        "nm_pasien": "DIDIK DJUNAEDI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-11-16",
+        "no_rkm_medis": "005621",
+        "nm_pasien": "VANDHITYA RENANINGTYAS",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-11-09",
+        "no_rkm_medis": "061544",
+        "nm_pasien": "FARIYATI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-10-25",
+        "no_rkm_medis": "084808",
+        "nm_pasien": "LULUK CNUSNUL CHOTIMAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-10-17",
+        "no_rkm_medis": "057972",
+        "nm_pasien": "WIWIK JUNIATI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-10-12",
+        "no_rkm_medis": "084579",
+        "nm_pasien": "AZIZ BASHORI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-10-07",
+        "no_rkm_medis": "017180",
+        "nm_pasien": "ABDUL MUZAKKI LISDIANTO",
+        "nm_dokter": "Benedictus Anindita Satmoko, dr"
+    },
+    {
+        "tgl_registrasi": "2023-10-02",
+        "no_rkm_medis": "078822",
+        "nm_pasien": "MARIA VIDIA PERMATA ANANDITA WIDAYA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-09-26",
+        "no_rkm_medis": "012889",
+        "nm_pasien": "PUGUH DWI JATMIKO",
+        "nm_dokter": "Ida Irmawati, drg. M. Kes.,M.H.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-09-20",
+        "no_rkm_medis": "084232",
+        "nm_pasien": "RAFASYA LUQMAN GHANI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-08-22",
+        "no_rkm_medis": "058085",
+        "nm_pasien": "SITI NGAISAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-08-22",
+        "no_rkm_medis": "076317",
+        "nm_pasien": "SUNARTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-08-22",
+        "no_rkm_medis": "078641",
+        "nm_pasien": "AZKIYA GADIS BRASTHONY",
+        "nm_dokter": "Aji Kristianto Wijaya., dr.,  Sp. A"
+    },
+    {
+        "tgl_registrasi": "2023-08-21",
+        "no_rkm_medis": "081510",
+        "nm_pasien": "SURYANTO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-08-15",
+        "no_rkm_medis": "083435",
+        "nm_pasien": "NADIA DEFA SHAFARAH",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-08-15",
+        "no_rkm_medis": "073510",
+        "nm_pasien": "MUHAMMAD RAFIF MUSYAFFA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-08-15",
+        "no_rkm_medis": "063852",
+        "nm_pasien": "YANI KRISWARTONO",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-08-14",
+        "no_rkm_medis": "083454",
+        "nm_pasien": "NAZWA ANNISA PURWIDYA PUTRI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-08-04",
+        "no_rkm_medis": "066871",
+        "nm_pasien": "PATRISIUS PARNINGOTAN PANJAITAN",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-08-03",
+        "no_rkm_medis": "085391",
+        "nm_pasien": "ALARIC NAUFAL NUGRAHA HARIYADI",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-08-03",
+        "no_rkm_medis": "083053",
+        "nm_pasien": "ELISABETH TAKKE",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-08-02",
+        "no_rkm_medis": "081388",
+        "nm_pasien": "ALIA CAHYANING MUSYAROFAH",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-08-02",
+        "no_rkm_medis": "065385",
+        "nm_pasien": "AUDY YUDY MARKUS DUMANAUW",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-30",
+        "no_rkm_medis": "083383",
+        "nm_pasien": "MALA YUSNIAWATI",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-29",
+        "no_rkm_medis": "083207",
+        "nm_pasien": "SITI AMINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-07-28",
+        "no_rkm_medis": "066131",
+        "nm_pasien": "DJAJADI TULUS WIDODO",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-07-28",
+        "no_rkm_medis": "083231",
+        "nm_pasien": "TUKIN",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-27",
+        "no_rkm_medis": "068252",
+        "nm_pasien": "SULASTRI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-07-27",
+        "no_rkm_medis": "055929",
+        "nm_pasien": "ANTHINA PAULINA TIVEN",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-27",
+        "no_rkm_medis": "074583",
+        "nm_pasien": "NGATININGSIH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-07-26",
+        "no_rkm_medis": "081058",
+        "nm_pasien": "GRACIA ELIZABETH LOIS",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-07-26",
+        "no_rkm_medis": "046019",
+        "nm_pasien": "USUP",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-07-26",
+        "no_rkm_medis": "082559",
+        "nm_pasien": "PATRI",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-07-25",
+        "no_rkm_medis": "076387",
+        "nm_pasien": "SUCIATI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-07-25",
+        "no_rkm_medis": "080829",
+        "nm_pasien": "DEKASIUS SULLE",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-07-25",
+        "no_rkm_medis": "083306",
+        "nm_pasien": "DEWA PUTRA RAMATUNGGA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-25",
+        "no_rkm_medis": "073810",
+        "nm_pasien": "RITA RUSITA",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-24",
+        "no_rkm_medis": "000623",
+        "nm_pasien": "TATIK ISNANIAH",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-24",
+        "no_rkm_medis": "076974",
+        "nm_pasien": "HERU SETYAWAN",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-23",
+        "no_rkm_medis": "083010",
+        "nm_pasien": "ANINDHITA AISAH RAMADHIANI",
+        "nm_dokter": "Benedictus Anindita Satmoko, dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-23",
+        "no_rkm_medis": "075875",
+        "nm_pasien": "BY NY ANDHITA FEBRIAYU PERMATA PUTRI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-23",
+        "no_rkm_medis": "075875",
+        "nm_pasien": "BY NY ANDHITA FEBRIAYU PERMATA PUTRI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-20",
+        "no_rkm_medis": "081096",
+        "nm_pasien": "RATNA HADIYATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-07-20",
+        "no_rkm_medis": "073456",
+        "nm_pasien": "SOLIKHAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-07-20",
+        "no_rkm_medis": "083138",
+        "nm_pasien": "RINTAN PUTRI ISTANTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-07-19",
+        "no_rkm_medis": "068293",
+        "nm_pasien": "SRI HARTUTIK",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-07-19",
+        "no_rkm_medis": "071256",
+        "nm_pasien": "YANTO SUGIANTORO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-07-19",
+        "no_rkm_medis": "076974",
+        "nm_pasien": "HERU SETYAWAN",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-18",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-07-18",
+        "no_rkm_medis": "083102",
+        "nm_pasien": "DIAH FITRIANI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-18",
+        "no_rkm_medis": "083162",
+        "nm_pasien": "MUHAMMAD KAYYIS RAMDHANI ZAIN",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-07-18",
+        "no_rkm_medis": "059161",
+        "nm_pasien": "RODIYAH",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-17",
+        "no_rkm_medis": "069363",
+        "nm_pasien": "BECKHING ADIE SAPUTRO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-07-14",
+        "no_rkm_medis": "000001",
+        "nm_pasien": "MARIA RETNO WULANSARI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-07-14",
+        "no_rkm_medis": "000844",
+        "nm_pasien": "NANIK SURYANINGSIH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-07-14",
+        "no_rkm_medis": "080102",
+        "nm_pasien": "MUDJI WARAS",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-07-13",
+        "no_rkm_medis": "072671",
+        "nm_pasien": "DIDIEK DJUNAIDI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-07-13",
+        "no_rkm_medis": "079767",
+        "nm_pasien": "EDY SUBIONO WAHYUDI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-07-13",
+        "no_rkm_medis": "082748",
+        "nm_pasien": "IRANI AYU AMALIA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-07-13",
+        "no_rkm_medis": "001774",
+        "nm_pasien": "HERDYANA WIDIYANTI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-13",
+        "no_rkm_medis": "082601",
+        "nm_pasien": "SUNARTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-07-11",
+        "no_rkm_medis": "045584",
+        "nm_pasien": "HADI SUPARMIN",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-11",
+        "no_rkm_medis": "011187",
+        "nm_pasien": "MUDJIATI IST HADI SUPARMIN",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-10",
+        "no_rkm_medis": "060914",
+        "nm_pasien": "UMMU HANNAH ",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-07-10",
+        "no_rkm_medis": "023711",
+        "nm_pasien": "CELCIA GLORIA CHRISTALENT",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-07-10",
+        "no_rkm_medis": "061296",
+        "nm_pasien": "RANI PUTRI PERTIWI",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-07-08",
+        "no_rkm_medis": "082107",
+        "nm_pasien": "DWI PUGIJATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-07-07",
+        "no_rkm_medis": "065976",
+        "nm_pasien": "SRI MULYANI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-07",
+        "no_rkm_medis": "076397",
+        "nm_pasien": "NINIK KURNIATI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-07-06",
+        "no_rkm_medis": "002992",
+        "nm_pasien": "SUDARWATI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-05",
+        "no_rkm_medis": "082399",
+        "nm_pasien": "ARMINI WATI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-07-05",
+        "no_rkm_medis": "034356",
+        "nm_pasien": "HARY SUSANTO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-07-05",
+        "no_rkm_medis": "081356",
+        "nm_pasien": "TRISMI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-07-05",
+        "no_rkm_medis": "073629",
+        "nm_pasien": "ZORA KIRANIA MAHZUM",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "082910",
+        "nm_pasien": "SULASTRIJATI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "022075",
+        "nm_pasien": "MEI LIEN KUSUMA DEWI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "059181",
+        "nm_pasien": "LUCKY PRADANA PUTRA",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "082107",
+        "nm_pasien": "DWI PUGIJATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "003808",
+        "nm_pasien": "KRISTIAN PUDJI RAHARDJO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "023161",
+        "nm_pasien": "SAADATUT DARAINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-04",
+        "no_rkm_medis": "011419",
+        "nm_pasien": "SUMARNI IST HARI BUDI W",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "082213",
+        "nm_pasien": "SARNI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "079643",
+        "nm_pasien": "THEOVANO GEOFFREY ALVARO",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "015995",
+        "nm_pasien": "TITIN IRAWATI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "082982",
+        "nm_pasien": "BAYI NYONYA ALIF MEI KATSAROH",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "057351",
+        "nm_pasien": "DAMAWIYAH",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "000623",
+        "nm_pasien": "TATIK ISNANIAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-07-03",
+        "no_rkm_medis": "000623",
+        "nm_pasien": "TATIK ISNANIAH",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-07-01",
+        "no_rkm_medis": "080755",
+        "nm_pasien": "ARIANI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-06-30",
+        "no_rkm_medis": "082175",
+        "nm_pasien": "BETTY ANGGRAENY",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-06-30",
+        "no_rkm_medis": "024821",
+        "nm_pasien": "AGATHA EMERALDA SISTYAS",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-06-28",
+        "no_rkm_medis": "079554",
+        "nm_pasien": "OEI TJO HIAUW",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-06-28",
+        "no_rkm_medis": "075917",
+        "nm_pasien": "RAFKA ALFARIZI PRATAMA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-27",
+        "no_rkm_medis": "082729",
+        "nm_pasien": "MUCHTADI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-27",
+        "no_rkm_medis": "001994",
+        "nm_pasien": "HETI ISWARI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-06-27",
+        "no_rkm_medis": "082776",
+        "nm_pasien": "KHEISA AURELIA SYAHIRA PRASETYA",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-27",
+        "no_rkm_medis": "058327",
+        "nm_pasien": "ROKANI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-06-27",
+        "no_rkm_medis": "050975",
+        "nm_pasien": "ASLIKAN",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-26",
+        "no_rkm_medis": "082508",
+        "nm_pasien": "KI HAJAR WILIS",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-26",
+        "no_rkm_medis": "082709",
+        "nm_pasien": "DWI INDAH AMBARWATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "082730",
+        "nm_pasien": "YAHMAN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "045482",
+        "nm_pasien": "PETRUS RUDY SAROSA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "080363",
+        "nm_pasien": "MOH ARSYHA PRABOWO UMASANGADJI",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "077720",
+        "nm_pasien": "MOCHAMMAD ZEN ALGIO RAFFASYA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "079767",
+        "nm_pasien": "EDY SUBIONO WAHYUDI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "082508",
+        "nm_pasien": "KI HAJAR WILIS",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-06-23",
+        "no_rkm_medis": "055929",
+        "nm_pasien": "ANTHINA PAULINA TIVEN",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "082249",
+        "nm_pasien": "ANDHIKA SEPTIAN ARGAPURA",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "082821",
+        "nm_pasien": "SUMINAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "067611",
+        "nm_pasien": "AMMAR KEENAN AL-AYUBI ISMAIL",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "082838",
+        "nm_pasien": "MUHAMMAD AZMI LUTFI AL MUMTAZ",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "082821",
+        "nm_pasien": "SUMINAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-22",
+        "no_rkm_medis": "001381",
+        "nm_pasien": "PRASTIWI MUSTIKANINGRUM",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-21",
+        "no_rkm_medis": "082738",
+        "nm_pasien": "hanna anindira khairisa",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-21",
+        "no_rkm_medis": "082765",
+        "nm_pasien": "AHMAD ATHAR FIRDAUS",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-21",
+        "no_rkm_medis": "076483",
+        "nm_pasien": "LULUK INDRAWATI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-06-21",
+        "no_rkm_medis": "079247",
+        "nm_pasien": "PUJIONO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-06-19",
+        "no_rkm_medis": "082734",
+        "nm_pasien": "NAFISA AZKIA MEI SYAIQILA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-19",
+        "no_rkm_medis": "065654",
+        "nm_pasien": "LULUK SRI MUHARINI NARIS",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-15",
+        "no_rkm_medis": "009538",
+        "nm_pasien": "RIDA RACHMAYANTI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-06-15",
+        "no_rkm_medis": "078480",
+        "nm_pasien": "RAVIN NOVIAN RAMZY",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-06-15",
+        "no_rkm_medis": "079134",
+        "nm_pasien": "SRI INDAH WAHYUTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-15",
+        "no_rkm_medis": "073509",
+        "nm_pasien": "MAT BASUKI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-06-15",
+        "no_rkm_medis": "081465",
+        "nm_pasien": "GILANG LEO PRAKOSO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-06-14",
+        "no_rkm_medis": "003458",
+        "nm_pasien": "YUSTINUS SUPRIJADI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-14",
+        "no_rkm_medis": "080552",
+        "nm_pasien": "SAIAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-14",
+        "no_rkm_medis": "058532",
+        "nm_pasien": "KAREP WANOTO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-06-13",
+        "no_rkm_medis": "041776",
+        "nm_pasien": "ALEXANDER MOSES ANDRIANO",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-12",
+        "no_rkm_medis": "081486",
+        "nm_pasien": "RIYONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-10",
+        "no_rkm_medis": "079353",
+        "nm_pasien": "Anindya Hanania Nugraha",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2023-06-10",
+        "no_rkm_medis": "001774",
+        "nm_pasien": "HERDYANA WIDIYANTI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-09",
+        "no_rkm_medis": "055042",
+        "nm_pasien": "FAISHAL KHOIRUL WAHYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "079113",
+        "nm_pasien": "FIRIDA SUSANTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "079113",
+        "nm_pasien": "FIRIDA SUSANTI",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "082662",
+        "nm_pasien": "MOH. DUCHIN",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "078967",
+        "nm_pasien": "MUHAMMAD GIBRAN PRATAMA",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "075891",
+        "nm_pasien": "KHUDRIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-08",
+        "no_rkm_medis": "070417",
+        "nm_pasien": "ELIA AGOES SETIAWAN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-07",
+        "no_rkm_medis": "082634",
+        "nm_pasien": "SUHARISMAN DIRGO",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-07",
+        "no_rkm_medis": "080185",
+        "nm_pasien": "PRAMU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-07",
+        "no_rkm_medis": "046019",
+        "nm_pasien": "USUP",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-06-07",
+        "no_rkm_medis": "032365",
+        "nm_pasien": "SUNIKAH",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-06-07",
+        "no_rkm_medis": "082660",
+        "nm_pasien": "MARJI",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-06-06",
+        "no_rkm_medis": "082639",
+        "nm_pasien": "SRIDASWATI ",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-06-03",
+        "no_rkm_medis": "078474",
+        "nm_pasien": "SELA NOVITA",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-06-03",
+        "no_rkm_medis": "078426",
+        "nm_pasien": "LINDA SUSIYANTI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-06-03",
+        "no_rkm_medis": "082562",
+        "nm_pasien": "LUTFIA PUJI ARIANTI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-06-03",
+        "no_rkm_medis": "067153",
+        "nm_pasien": "MUHAMMAD NAUFAL ATHALLA",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-06-02",
+        "no_rkm_medis": "081198",
+        "nm_pasien": "RISA ARIMATUL LAILI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-06-02",
+        "no_rkm_medis": "005387",
+        "nm_pasien": "FONNI",
+        "nm_dokter": "Pria Istjahja Utama dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-06-02",
+        "no_rkm_medis": "082570",
+        "nm_pasien": "MAFAZA NAURA SHANAYA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-06-02",
+        "no_rkm_medis": "057411",
+        "nm_pasien": "RIBKA RUKIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-01",
+        "no_rkm_medis": "064953",
+        "nm_pasien": "ANTONIUS SAIMIN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-06-01",
+        "no_rkm_medis": "073073",
+        "nm_pasien": "WIWIK",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-31",
+        "no_rkm_medis": "082480",
+        "nm_pasien": "ADRIELA GRACELINA SIHOMBING",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-31",
+        "no_rkm_medis": "061925",
+        "nm_pasien": "HARI SUYONO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-29",
+        "no_rkm_medis": "078376",
+        "nm_pasien": "RUMINI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-29",
+        "no_rkm_medis": "002226",
+        "nm_pasien": "HENIK KRISTIANA",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-27",
+        "no_rkm_medis": "082373",
+        "nm_pasien": "MASRORIN",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-27",
+        "no_rkm_medis": "082367",
+        "nm_pasien": "WAHYU JOKO SUPRIYONO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-26",
+        "no_rkm_medis": "063318",
+        "nm_pasien": "EDI SURYANI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-26",
+        "no_rkm_medis": "082467",
+        "nm_pasien": "ISA BELLA CHRISTY",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-26",
+        "no_rkm_medis": "071509",
+        "nm_pasien": "MUSRINGAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-25",
+        "no_rkm_medis": "078967",
+        "nm_pasien": "MUHAMMAD GIBRAN PRATAMA",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-24",
+        "no_rkm_medis": "081572",
+        "nm_pasien": "AANG JUNI SETIYA WINDARKO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-24",
+        "no_rkm_medis": "080654",
+        "nm_pasien": "NURUL HAMIYAH",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-24",
+        "no_rkm_medis": "060735",
+        "nm_pasien": "PARTIAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-24",
+        "no_rkm_medis": "045482",
+        "nm_pasien": "PETRUS RUDY SAROSA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "062606",
+        "nm_pasien": "DARMINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "076226",
+        "nm_pasien": "SUMARDI, SH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "005011",
+        "nm_pasien": "JAMI",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "079986",
+        "nm_pasien": "DWI RIANTO",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "079104",
+        "nm_pasien": "SONY YULANTA KUSUMA",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "066698",
+        "nm_pasien": "SALMAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "082433",
+        "nm_pasien": "YISKA GIYANDA TREESYELA",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "002859",
+        "nm_pasien": "ENIK SRI WIJAYANTI",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "077418",
+        "nm_pasien": "ATHALLA JOVANO PRISTIAN ANJAYA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "070456",
+        "nm_pasien": "NINIK MUNASIH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "082375",
+        "nm_pasien": "NATASHA AURORA GIOVANNI",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "063318",
+        "nm_pasien": "EDI SURYANI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "065385",
+        "nm_pasien": "AUDY YUDY MARKUS DUMANAUW",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "058125",
+        "nm_pasien": "SOEJANTO MARDI",
+        "nm_dokter": "Ida Irmawati, drg. M. Kes.,M.H.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "021548",
+        "nm_pasien": "ADI PRANOTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-23",
+        "no_rkm_medis": "060492",
+        "nm_pasien": "SOFIA FAJARWATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-22",
+        "no_rkm_medis": "078557",
+        "nm_pasien": "RINI PURWATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-22",
+        "no_rkm_medis": "080097",
+        "nm_pasien": "SRI WINARTI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-22",
+        "no_rkm_medis": "078454",
+        "nm_pasien": "PONIMAN",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-05-21",
+        "no_rkm_medis": "082407",
+        "nm_pasien": "SEPTY KUSUMANING PRATIWI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-20",
+        "no_rkm_medis": "071678",
+        "nm_pasien": "DWI RUDI LISTIAINI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-20",
+        "no_rkm_medis": "081735",
+        "nm_pasien": "TIARA VIANNEY CHRISTINA SULLE",
+        "nm_dokter": "Mellyanawati dr. Sp. DV"
+    },
+    {
+        "tgl_registrasi": "2023-05-19",
+        "no_rkm_medis": "065976",
+        "nm_pasien": "SRI MULYANI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-19",
+        "no_rkm_medis": "080372",
+        "nm_pasien": "ARI BUDIARTI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-18",
+        "no_rkm_medis": "062606",
+        "nm_pasien": "DARMINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-18",
+        "no_rkm_medis": "000939",
+        "nm_pasien": "DYAH SRI PURWITANINGSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-17",
+        "no_rkm_medis": "078389",
+        "nm_pasien": "SATRIA AJI WISANGGENI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-17",
+        "no_rkm_medis": "029428",
+        "nm_pasien": "ROY SAPUTRA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "081370",
+        "nm_pasien": "INDAH PURNAMASARI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "072683",
+        "nm_pasien": "MAWARSIH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "080368",
+        "nm_pasien": "NURUL WAHYUNI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "058085",
+        "nm_pasien": "SITI NGAISAH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "065976",
+        "nm_pasien": "SRI MULYANI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "081572",
+        "nm_pasien": "AANG JUNI SETIYA WINDARKO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "066501",
+        "nm_pasien": "WAWAN SABDO SUWANDONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "068414",
+        "nm_pasien": "DODHID ERFA YUDHIANTA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "082308",
+        "nm_pasien": "DAFFA TANOTO ",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-16",
+        "no_rkm_medis": "012809",
+        "nm_pasien": "WADJI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "035119",
+        "nm_pasien": "ANGELA VALENTINA NATANAEL",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "028257",
+        "nm_pasien": "ENDANG KRISTINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "050836",
+        "nm_pasien": "SLAMET BAGUS JULIANTO",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "077720",
+        "nm_pasien": "MOCHAMMAD ZEN ALGIO RAFFASYA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "065976",
+        "nm_pasien": "SRI MULYANI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "054987",
+        "nm_pasien": "HENNY SOENARIADI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-15",
+        "no_rkm_medis": "082326",
+        "nm_pasien": "GLORY AMARISA KELYN",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-13",
+        "no_rkm_medis": "028257",
+        "nm_pasien": "ENDANG KRISTINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-13",
+        "no_rkm_medis": "080896",
+        "nm_pasien": "TATIK SRI LESTARI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-13",
+        "no_rkm_medis": "064174",
+        "nm_pasien": "EKA HARYANI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "036251",
+        "nm_pasien": "DANIEL ADI FIRMANTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "023408",
+        "nm_pasien": "NILA PRAMBANI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "080982",
+        "nm_pasien": "LU  LUUL MUSYAROFAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "028257",
+        "nm_pasien": "ENDANG KRISTINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "016033",
+        "nm_pasien": "RACHEL SUSANA",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "081088",
+        "nm_pasien": "NICKO RIZKY DIRGANTARA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "041251",
+        "nm_pasien": "LEVI LUSIANA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-12",
+        "no_rkm_medis": "079252",
+        "nm_pasien": "SITI MARFUAH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "082122",
+        "nm_pasien": "ARDITYA BUDI LESMANA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "061525",
+        "nm_pasien": "ROEMINI",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "016033",
+        "nm_pasien": "RACHEL SUSANA",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "073281",
+        "nm_pasien": "MUHAMMAD KUSTUR",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "028257",
+        "nm_pasien": "ENDANG KRISTINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "062103",
+        "nm_pasien": "JENNY FRANCISKA HANDOYO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "081765",
+        "nm_pasien": "ARIFIN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "080136",
+        "nm_pasien": "SITI MARIYAM",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "079652",
+        "nm_pasien": "RUMINI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "066698",
+        "nm_pasien": "SALMAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "080583",
+        "nm_pasien": "HARI PRIYONO",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "081524",
+        "nm_pasien": "RANI WIDIASTUTI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "062118",
+        "nm_pasien": "SUSIANAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "061269",
+        "nm_pasien": "MUKHSINUL AKHLAQ",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "082019",
+        "nm_pasien": "SUMARMI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "014066",
+        "nm_pasien": "SRI WALASTUN",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "082218",
+        "nm_pasien": "ABIDZAR ALFAREZEL",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "002422",
+        "nm_pasien": "SETIYANI",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "066501",
+        "nm_pasien": "WAWAN SABDO SUWANDONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "080896",
+        "nm_pasien": "TATIK SRI LESTARI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "046357",
+        "nm_pasien": "MARSHALL EMIL RAHMADIAN",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "056228",
+        "nm_pasien": "LILIS ARTININGSIH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "051474",
+        "nm_pasien": "TILAH",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-11",
+        "no_rkm_medis": "076999",
+        "nm_pasien": "NUR HAYATI",
+        "nm_dokter": "Ixnatius Ariyando dr. Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "001791",
+        "nm_pasien": "NATANAEL SETYADI EKOWIBOWO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "062489",
+        "nm_pasien": "KHOIRIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "061925",
+        "nm_pasien": "HARI SUYONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "078498",
+        "nm_pasien": "MINCE KISMARINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "040021",
+        "nm_pasien": "RUT SETYO PUSPITADJENG",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "014066",
+        "nm_pasien": "SRI WALASTUN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "052648",
+        "nm_pasien": "MOHAMAD EKO PRASTYO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "007524",
+        "nm_pasien": "AGOESTIN TITIK HEROWATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "079247",
+        "nm_pasien": "PUJIONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "080308",
+        "nm_pasien": "NUR WAHYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "022075",
+        "nm_pasien": "MEI LIEN KUSUMA DEWI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "001539",
+        "nm_pasien": "GATOT SEPSIONO",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "062118",
+        "nm_pasien": "SUSIANAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "077958",
+        "nm_pasien": "NASRUL ALIF HAMDANI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "020740",
+        "nm_pasien": "yudhi pursetyo",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "000578",
+        "nm_pasien": "OKTHALIA VARREL ANINDHITA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "061570",
+        "nm_pasien": "SUTIANI",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "076086",
+        "nm_pasien": "ASLIKAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-10",
+        "no_rkm_medis": "081829",
+        "nm_pasien": "ROBBY LIZAR NUGROHO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-09",
+        "no_rkm_medis": "058797",
+        "nm_pasien": "HASAN",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-09",
+        "no_rkm_medis": "082243",
+        "nm_pasien": "ENDY HERMAWAN SARSITO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-09",
+        "no_rkm_medis": "021864",
+        "nm_pasien": "FIBRIAN DANIEL SUMARSONO",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-08",
+        "no_rkm_medis": "079748",
+        "nm_pasien": "SUBEKTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-08",
+        "no_rkm_medis": "075891",
+        "nm_pasien": "KHUDRIYAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-08",
+        "no_rkm_medis": "066501",
+        "nm_pasien": "WAWAN SABDO SUWANDONO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-08",
+        "no_rkm_medis": "008180",
+        "nm_pasien": "SRI WINARTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-08",
+        "no_rkm_medis": "037886",
+        "nm_pasien": "AGUS SUGIYAT",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-05-06",
+        "no_rkm_medis": "076647",
+        "nm_pasien": "NAYRA FALISYA PUTRI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-05-06",
+        "no_rkm_medis": "067444",
+        "nm_pasien": "KUSUHERINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-06",
+        "no_rkm_medis": "059161",
+        "nm_pasien": "RODIYAH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "081443",
+        "nm_pasien": "MUSLICHAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "073768",
+        "nm_pasien": "SAIBUDDIN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "078671",
+        "nm_pasien": "MEIRIANA",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "062118",
+        "nm_pasien": "SUSIANAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "071393",
+        "nm_pasien": "ELVITA MULYA SAKTI",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "068891",
+        "nm_pasien": "M.FATIH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "059161",
+        "nm_pasien": "RODIYAH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-05",
+        "no_rkm_medis": "081653",
+        "nm_pasien": "LUSI RAKASIWI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "045978",
+        "nm_pasien": "FX. ISMUNIR",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "066955",
+        "nm_pasien": "LIDIAWATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "079113",
+        "nm_pasien": "FIRIDA SUSANTI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "029463",
+        "nm_pasien": "KUNTORO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "067760",
+        "nm_pasien": "BASRI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "072580",
+        "nm_pasien": "SITI NURHAYATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "082184",
+        "nm_pasien": "BAGIYO UTOMO ",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "062715",
+        "nm_pasien": "AYUB MARTONO",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "074867",
+        "nm_pasien": "SRI FATUKAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "008180",
+        "nm_pasien": "SRI WINARTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "078671",
+        "nm_pasien": "MEIRIANA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-04",
+        "no_rkm_medis": "007809",
+        "nm_pasien": "SUJOKO TEMAN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-03",
+        "no_rkm_medis": "081235",
+        "nm_pasien": "RANIA FAIHANA PUTRI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-03",
+        "no_rkm_medis": "081238",
+        "nm_pasien": "AHMAD FERYAFRIANSYAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-05-03",
+        "no_rkm_medis": "075841",
+        "nm_pasien": "DEVI KUMALASARI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-03",
+        "no_rkm_medis": "008797",
+        "nm_pasien": "EZA ALIFIA FEBIADINDA ",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-05-03",
+        "no_rkm_medis": "077316",
+        "nm_pasien": "NATHANAEL JOHAN  TANGKUDUNG",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "071548",
+        "nm_pasien": "ISTUNINGSIH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "082070",
+        "nm_pasien": "FARIEL ARIZKI RAHMADANI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "045482",
+        "nm_pasien": "PETRUS RUDY SAROSA",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "080664",
+        "nm_pasien": "KASIAMI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "026313",
+        "nm_pasien": "ANDI WINTER HUDURI,SH",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "036277",
+        "nm_pasien": "NAVISYA ANDIENTYA NURMARISCA",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "005955",
+        "nm_pasien": "FERRA NATALIA",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-05-02",
+        "no_rkm_medis": "062103",
+        "nm_pasien": "JENNY FRANCISKA HANDOYO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-05-01",
+        "no_rkm_medis": "063337",
+        "nm_pasien": "SUMILAH",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-05-01",
+        "no_rkm_medis": "082159",
+        "nm_pasien": "YUNI ASTUTI ",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "074224",
+        "nm_pasien": "AUNUR ROFIQ",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "071678",
+        "nm_pasien": "DWI RUDI LISTIAINI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "070521",
+        "nm_pasien": "MIRACLE ADVENIA PUSPA AYUNDA",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "055032",
+        "nm_pasien": "MARNOVA HARRISON",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "040114",
+        "nm_pasien": "SUKASIH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "082133",
+        "nm_pasien": "ADANG PUTRA WIBAWANTO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "058501",
+        "nm_pasien": "LINGGA SUKMA ARDHI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "072628",
+        "nm_pasien": "LINDRA SUMA ANDARU",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "082134",
+        "nm_pasien": "AULIASARI SISKANINGRUM, S.Kep, Ns, M Kep",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "081686",
+        "nm_pasien": "KAIVAN IRSYAM ABDILLAH",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-28",
+        "no_rkm_medis": "079650",
+        "nm_pasien": "MOHAMMAD NAWAWI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-27",
+        "no_rkm_medis": "078557",
+        "nm_pasien": "RINI PURWATI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-27",
+        "no_rkm_medis": "081671",
+        "nm_pasien": "LAMINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-27",
+        "no_rkm_medis": "062118",
+        "nm_pasien": "SUSIANAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-27",
+        "no_rkm_medis": "065752",
+        "nm_pasien": "AGOES SUDIONO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-27",
+        "no_rkm_medis": "077192",
+        "nm_pasien": "ALI BAFAQIH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "001818",
+        "nm_pasien": "SUDARSO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "023457",
+        "nm_pasien": "EDDIANE BETSY IDOLA",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "068369",
+        "nm_pasien": "SUNTORO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "073194",
+        "nm_pasien": "TRI WAHYU WIDODO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "065435",
+        "nm_pasien": "NUR KHALIFAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "069814",
+        "nm_pasien": "METANE DIDIK HARJANU",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "067339",
+        "nm_pasien": "SUMARNI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "078144",
+        "nm_pasien": "SUPAKAT",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "016033",
+        "nm_pasien": "RACHEL SUSANA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "081976",
+        "nm_pasien": "SOTYANINGDYAH",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "040011",
+        "nm_pasien": "SISWOADINOTO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "057010",
+        "nm_pasien": "WENI ISA HERMILIA",
+        "nm_dokter": "Ida Irmawati, drg. M. Kes.,M.H.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "061544",
+        "nm_pasien": "FARIYATI",
+        "nm_dokter": "Ida Irmawati, drg. M. Kes.,M.H.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "077331",
+        "nm_pasien": "AQILA WARDAH AMALIA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-26",
+        "no_rkm_medis": "078557",
+        "nm_pasien": "RINI PURWATI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-25",
+        "no_rkm_medis": "073456",
+        "nm_pasien": "SOLIKHAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-25",
+        "no_rkm_medis": "082085",
+        "nm_pasien": "NI KETUT PENI TRISIANI",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-24",
+        "no_rkm_medis": "079748",
+        "nm_pasien": "SUBEKTI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-24",
+        "no_rkm_medis": "076398",
+        "nm_pasien": "SUPRAPTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-24",
+        "no_rkm_medis": "078144",
+        "nm_pasien": "SUPAKAT",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "064953",
+        "nm_pasien": "ANTONIUS SAIMIN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "064174",
+        "nm_pasien": "EKA HARYANI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "066244",
+        "nm_pasien": "RINI TANOJO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "079487",
+        "nm_pasien": "BUDHAYANA",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "081411",
+        "nm_pasien": "ACHMAD ZAIN AL GHOZI",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "072583",
+        "nm_pasien": "TENTREM RAHAYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "072346",
+        "nm_pasien": "R. SURAHUTOMO AZIZ PRADANA",
+        "nm_dokter": "Ida Irmawati, drg. M. Kes.,M.H.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "081985",
+        "nm_pasien": "ZACKIE IRDHOANTO SAIYA",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "057931",
+        "nm_pasien": "SUGIANTO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "078454",
+        "nm_pasien": "PONIMAN",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-04-21",
+        "no_rkm_medis": "079487",
+        "nm_pasien": "BUDHAYANA",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "065435",
+        "nm_pasien": "NUR KHALIFAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "000095",
+        "nm_pasien": "WARTINI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "076867",
+        "nm_pasien": "ANTON EFENDI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "028162",
+        "nm_pasien": "RAHAYU WIJI HARIYATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "057840",
+        "nm_pasien": "ANIK SULIYANI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "060911",
+        "nm_pasien": "SRI ANDRIJANTI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "081806",
+        "nm_pasien": "TUKIMAN",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "080814",
+        "nm_pasien": "SELAITAH",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-04-20",
+        "no_rkm_medis": "075984",
+        "nm_pasien": "SATRYA RADHIKA PRASETYO",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "072583",
+        "nm_pasien": "TENTREM RAHAYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "065435",
+        "nm_pasien": "NUR KHALIFAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "057170",
+        "nm_pasien": "FEODORA ANANTHIUS",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "023457",
+        "nm_pasien": "EDDIANE BETSY IDOLA",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "077720",
+        "nm_pasien": "MOCHAMMAD ZEN ALGIO RAFFASYA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "081291",
+        "nm_pasien": "SURYANTO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "076613",
+        "nm_pasien": "BARNABAS GINTING",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "071241",
+        "nm_pasien": "KAFFA ALBIRRU PRATAMA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "073644",
+        "nm_pasien": "ALOYSIUS SUPRIJO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "069814",
+        "nm_pasien": "METANE DIDIK HARJANU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "080740",
+        "nm_pasien": "KAFKA FAWWAS SAKA SANTOSO",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-19",
+        "no_rkm_medis": "081947",
+        "nm_pasien": "FAID ADITYA ",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "072404",
+        "nm_pasien": "SITI MAJAALI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "081861",
+        "nm_pasien": "LAURENCIA YORIN S",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "061544",
+        "nm_pasien": "FARIYATI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "079507",
+        "nm_pasien": "DIANDRA ARUMI MAHESWARI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "068073",
+        "nm_pasien": "AMELLIA NAFISAH PUTRI ISWAHYUDI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "081240",
+        "nm_pasien": "ARZIKI GIANDRA FATANSYAH",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "047592",
+        "nm_pasien": "SUSINI",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "082008",
+        "nm_pasien": "FURUTA SATOSHI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "058576",
+        "nm_pasien": "DJOKO PITOJO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "082006",
+        "nm_pasien": "IWAKURA MINORU",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "082007",
+        "nm_pasien": "IWAI RYOTA",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "082008",
+        "nm_pasien": "FURUTA SATOSHI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "070398",
+        "nm_pasien": "HENGKI SUJAMINI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "070453",
+        "nm_pasien": "NOVIANA MEGA WULANSARI",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-18",
+        "no_rkm_medis": "082005",
+        "nm_pasien": "DADANG MAULANA",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "072796",
+        "nm_pasien": "RIRIN PRISTIOWATI",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "037201",
+        "nm_pasien": "KHOIRUR ROZIQ",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "079507",
+        "nm_pasien": "DIANDRA ARUMI MAHESWARI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "072580",
+        "nm_pasien": "SITI NURHAYATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "014066",
+        "nm_pasien": "SRI WALASTUN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "079594",
+        "nm_pasien": "SUBIYANTO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "068663",
+        "nm_pasien": "ENNY UTARININGRUM",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "077720",
+        "nm_pasien": "MOCHAMMAD ZEN ALGIO RAFFASYA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "081012",
+        "nm_pasien": "MUHAMMAD ARSHAKA MALIK ELFAHREZA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "068073",
+        "nm_pasien": "AMELLIA NAFISAH PUTRI ISWAHYUDI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "024941",
+        "nm_pasien": "SRI ISNAWATI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "072583",
+        "nm_pasien": "TENTREM RAHAYU",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "081986",
+        "nm_pasien": "HADI SUWARNO",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "080697",
+        "nm_pasien": "MUCHAMMAD ELBARRAUF MUJAWWAD",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "081988",
+        "nm_pasien": "JESSICA SHELOMITHA DOMINIC LANGKAI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "051596",
+        "nm_pasien": "FAZIO RIZKY WIDYATMIKO",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "037783",
+        "nm_pasien": "DAMAI SETYORINI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-17",
+        "no_rkm_medis": "082004",
+        "nm_pasien": "YOSHIHARA TOMOHIRO",
+        "nm_dokter": "Miranti Arsi Gandini dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-16",
+        "no_rkm_medis": "081980",
+        "nm_pasien": "DODIK SUHARTONO ",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-16",
+        "no_rkm_medis": "080694",
+        "nm_pasien": "ANGELINA CHRISTINE VENTURA GO",
+        "nm_dokter": "Audy Yudy Markus Dumanauw dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-15",
+        "no_rkm_medis": "077716",
+        "nm_pasien": "TAMAN SULIS WANTOKO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-15",
+        "no_rkm_medis": "016033",
+        "nm_pasien": "RACHEL SUSANA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-15",
+        "no_rkm_medis": "055989",
+        "nm_pasien": "LEO ALEXANDER BRILLIAN RAHARDJO",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-15",
+        "no_rkm_medis": "081972",
+        "nm_pasien": "DWI WAHYU HARNANIK",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "062103",
+        "nm_pasien": "JENNY FRANCISKA HANDOYO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "066244",
+        "nm_pasien": "RINI TANOJO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "023457",
+        "nm_pasien": "EDDIANE BETSY IDOLA",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "079655",
+        "nm_pasien": "GO LIIK SEPTIA INDARSIH GUNAWAN",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "080870",
+        "nm_pasien": "JUARIYAH",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "081875",
+        "nm_pasien": "MUHAMMAD DAYYAN ZAVIER ALHANAN",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "079507",
+        "nm_pasien": "DIANDRA ARUMI MAHESWARI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "074224",
+        "nm_pasien": "AUNUR ROFIQ",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "057410",
+        "nm_pasien": "LUKAS SOEMANTRI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "080781",
+        "nm_pasien": "REBEKHA ROTUA",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "044895",
+        "nm_pasien": "INDAHJATI",
+        "nm_dokter": "Shandy Suwanto Putra,dr.,Sp. OG"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "080370",
+        "nm_pasien": "SUPII",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "080931",
+        "nm_pasien": "ARTATIAS SIMANJUNTAK",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "061550",
+        "nm_pasien": "LILIK SUHARTATIK",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "079302",
+        "nm_pasien": "EMA MUCHAYATIN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-14",
+        "no_rkm_medis": "081875",
+        "nm_pasien": "MUHAMMAD DAYYAN ZAVIER ALHANAN",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "014806",
+        "nm_pasien": "DEWI SARTIKA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "077716",
+        "nm_pasien": "TAMAN SULIS WANTOKO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "014066",
+        "nm_pasien": "SRI WALASTUN",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "076398",
+        "nm_pasien": "SUPRAPTO",
+        "nm_dokter": "Asep Harirohman, dr.,Sp.P.D"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "065877",
+        "nm_pasien": "MUSTIFAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "074315",
+        "nm_pasien": "DONNY PRASETIAWAN",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "081100",
+        "nm_pasien": "RENA MELATI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "078120",
+        "nm_pasien": "YOGA RIZKI PRATAMA FUADY",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "081572",
+        "nm_pasien": "AANG JUNI SETIYA WINDARKO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "065946",
+        "nm_pasien": "EVIYATUN NADHIFAH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "081940",
+        "nm_pasien": "ROSANNUDIN HIDAYAT",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-13",
+        "no_rkm_medis": "021141",
+        "nm_pasien": "HAFIZH SYAFRUDIN REFI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081235",
+        "nm_pasien": "RANIA FAIHANA PUTRI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "080816",
+        "nm_pasien": "MARIANA EKA RINI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081572",
+        "nm_pasien": "AANG JUNI SETIYA WINDARKO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "021141",
+        "nm_pasien": "HAFIZH SYAFRUDIN REFI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "080662",
+        "nm_pasien": "MARISSA AYU WULANDARI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "073316",
+        "nm_pasien": "ISPARDIYAH",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "077860",
+        "nm_pasien": "SULIKAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "060970",
+        "nm_pasien": "HIMALAYA ANDANA DIASWARA",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "021548",
+        "nm_pasien": "ADI PRANOTO",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081671",
+        "nm_pasien": "LAMINAH",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "014806",
+        "nm_pasien": "DEWI SARTIKA",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "067339",
+        "nm_pasien": "SUMARNI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "037886",
+        "nm_pasien": "AGUS SUGIYAT",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "079612",
+        "nm_pasien": "JUMANI",
+        "nm_dokter": "Lisa Setiawan, dr, Sp.B.M.Si.Med"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081465",
+        "nm_pasien": "GILANG LEO PRAKOSO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081010",
+        "nm_pasien": "DWI CHOLKARIYANTININGTYAS",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "052734",
+        "nm_pasien": "ELSA AZIZA KARNO PUTRI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "078140",
+        "nm_pasien": "RIZQIYATUL ALIMAH",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "080121",
+        "nm_pasien": "ACHMAD ARYA ATMA PRAWIRA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "009053",
+        "nm_pasien": "HENDRO SUTANTO GARDJITO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "009053",
+        "nm_pasien": "HENDRO SUTANTO GARDJITO",
+        "nm_dokter": "Herry Purwadi Sukotjahjono, dr., Sp.PK"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "059080",
+        "nm_pasien": "STEFANY ANGELIA PUTRI",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081012",
+        "nm_pasien": "MUHAMMAD ARSHAKA MALIK ELFAHREZA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081939",
+        "nm_pasien": "BAYI NYONYA ENDANG PURWANTI",
+        "nm_dokter": "Ima Sonia,B.MedSc,Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "075009",
+        "nm_pasien": "ONGKO WARISAN HIDAYAT",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "000162",
+        "nm_pasien": "SUKRESNO TJAHJO WIDODO",
+        "nm_dokter": "Antono Pratanu dr.Sp.U"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "064746",
+        "nm_pasien": "TRI MAYASARI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-12",
+        "no_rkm_medis": "081748",
+        "nm_pasien": "ENI NURWANTI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "077490",
+        "nm_pasien": "SUKARDI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "076041",
+        "nm_pasien": "KUSNUN ABIDIN",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "080827",
+        "nm_pasien": "NINIK LISTYA NINGSIH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "000869",
+        "nm_pasien": "HENDRIK EKO YULIANTO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "081365",
+        "nm_pasien": "NURUL MUSTOFA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "080305",
+        "nm_pasien": "NIKMATUS SHOLIKHA",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "021308",
+        "nm_pasien": "TRIRIN WAHYUNI",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "080503",
+        "nm_pasien": "FERNANDA SETYO WAHYU HARIONO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "081465",
+        "nm_pasien": "GILANG LEO PRAKOSO",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "077458",
+        "nm_pasien": "MUNAWAROH",
+        "nm_dokter": "Fajar Agus Muttaqin drg. Sp. KG"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "081816",
+        "nm_pasien": "HANINDYA AYU NATHANIA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "063600",
+        "nm_pasien": "MUSYAROFAH",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "063224",
+        "nm_pasien": "LILIK NUR AINI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "061543",
+        "nm_pasien": "KRISTIYONO",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "064432",
+        "nm_pasien": "MARIYAM",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "062103",
+        "nm_pasien": "JENNY FRANCISKA HANDOYO",
+        "nm_dokter": "Tutut Sriwiludjeng. dr. Sp.THT"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "054034",
+        "nm_pasien": "ADEK RIZQI NUR PRATAMA",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "063899",
+        "nm_pasien": "HENY RATNA SARI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "015809",
+        "nm_pasien": "LENA HANURAWATI",
+        "nm_dokter": "Christopher Antony Simanjuntak, dr., Sp.OT"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "065999",
+        "nm_pasien": "NGATINI",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "081920",
+        "nm_pasien": "FATCHUNU RONI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "030763",
+        "nm_pasien": "MARVELL ATHALA FAHRIANSYAH",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "078204",
+        "nm_pasien": "SUWANDI",
+        "nm_dokter": "Gembong Witjaksono dr. Sp.JP"
+    },
+    {
+        "tgl_registrasi": "2023-04-11",
+        "no_rkm_medis": "080784",
+        "nm_pasien": "BUNGA KOERYNIA WAHTI",
+        "nm_dokter": "Jan F. Tahalele dr. Sp.B"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "057972",
+        "nm_pasien": "WIWIK JUNIATI",
+        "nm_dokter": "Dadang Kusumawardhana, dr., Sp.KFR"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "064746",
+        "nm_pasien": "TRI MAYASARI",
+        "nm_dokter": "Budi Santoso dr. Sp.M"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "079399",
+        "nm_pasien": "NAFEEZA RISZKY RAMADHANI",
+        "nm_dokter": "Yunika Nurtyas dr. Sp.A"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "067716",
+        "nm_pasien": "SUZANA SAMIATI",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "058356",
+        "nm_pasien": "SUTRISNO",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "070396",
+        "nm_pasien": "USWATUN MASRIKAH",
+        "nm_dokter": "Soekrisno Adi dr. Sp.S"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "001791",
+        "nm_pasien": "NATANAEL SETYADI EKOWIBOWO",
+        "nm_dokter": "Pria Istjahja Utama dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "061172",
+        "nm_pasien": "NATHAN RADITYA IMMANUEL",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "081613",
+        "nm_pasien": "MUHAMMAD FARDAN IMANU",
+        "nm_dokter": "Pria Istjahja Utama dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "2023-04-10",
+        "no_rkm_medis": "055877",
+        "nm_pasien": "NINA DWI ESTU WILUJENG",
+        "nm_dokter": "Ade Dwirisha Putra dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "067556",
+        "nm_pasien": "ABRAHAM JULIUS PRADANA PUTRA",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "057010",
+        "nm_pasien": "WENI ISA HERMILIA",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "065740",
+        "nm_pasien": "FELYTA DEVISA CANDRA",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "081390",
+        "nm_pasien": "A. RUSIONO",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "074991",
+        "nm_pasien": "YUDI PURNOMO",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "035119",
+        "nm_pasien": "ANGELA VALENTINA NATANAEL",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "068073",
+        "nm_pasien": "AMELLIA NAFISAH PUTRI ISWAHYUDI",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "081898",
+        "nm_pasien": "KHUSNUL KHOTIMAH",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "080897",
+        "nm_pasien": "PURNOMO",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "081899",
+        "nm_pasien": "WINARTI",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "030821",
+        "nm_pasien": "HADI SUGONDO",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-09",
+        "no_rkm_medis": "081900",
+        "nm_pasien": "VIKA AYU NURFADILAH",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "048481",
+        "nm_pasien": "NADYA TIFANY",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "032337",
+        "nm_pasien": "DEVINA KARLA JULIAN",
+        "nm_dokter": "Evelyn Marlia Tanaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "047592",
+        "nm_pasien": "SUSINI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "081635",
+        "nm_pasien": "DAFFIN RAZAN AHMAD AL GHAZY",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "062971",
+        "nm_pasien": "DEVI PUTRI ANGGRAENI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "081893",
+        "nm_pasien": "KAYAT",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "081894",
+        "nm_pasien": "IRFAN YUNANTO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "054003",
+        "nm_pasien": "WATERKAMP AURELIA WATINI",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "081895",
+        "nm_pasien": "YAYAN ZAINUDIN",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "059544",
+        "nm_pasien": "ADIRA CALLYSTA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-08",
+        "no_rkm_medis": "081896",
+        "nm_pasien": "CHATALINA EVELYNE YURIKO",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-07",
+        "no_rkm_medis": "081889",
+        "nm_pasien": "SAFEEA ZAHSY KARTIKA SALSABILLA",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-07",
+        "no_rkm_medis": "078076",
+        "nm_pasien": "AXEL LEONARD JUNIOR ARZA",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-07",
+        "no_rkm_medis": "075816",
+        "nm_pasien": "TRI DIDY FATCHUR RACHMAN",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-07",
+        "no_rkm_medis": "050192",
+        "nm_pasien": "KURNIA RAKHMAWATI",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-07",
+        "no_rkm_medis": "050210",
+        "nm_pasien": "EDWIN PRIVENTA SUGIARTO",
+        "nm_dokter": "Deo Sanjaya dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-06",
+        "no_rkm_medis": "081878",
+        "nm_pasien": "NAYSILLA RISKIA PUTRI",
+        "nm_dokter": "Winda Easteria Kurniasari dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "2023-04-06",
+        "no_rkm_medis": "081859",
+        "nm_pasien": "SEVI CAHYATI",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-06",
+        "no_rkm_medis": "081012",
+        "nm_pasien": "MUHAMMAD ARSHAKA MALIK ELFAHREZA",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-04-06",
+        "no_rkm_medis": "069022",
+        "nm_pasien": "SUNIAH",
+        "nm_dokter": "Titi dr"
+    },
+    {
+        "tgl_registrasi": "2023-01-02",
+        "no_rkm_medis": "011592",
+        "nm_pasien": "MUSTIAH",
+        "nm_dokter": "Ihwan Arifianto dr. Sp.PD"
+    },
+    {
+        "tgl_registrasi": "0202-12-08",
+        "no_rkm_medis": "056186",
+        "nm_pasien": "GABRIELLA  ESTER JERMIA",
+        "nm_dokter": "Irwan Khrestianto dr.,M.Kes"
+    },
+    {
+        "tgl_registrasi": "0202-01-26",
+        "no_rkm_medis": "027398",
+        "nm_pasien": "sudjono",
+        "nm_dokter": "Andi Wijayanto dr. Sp.P"
+    }
+]
