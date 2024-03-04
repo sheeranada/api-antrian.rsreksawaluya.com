@@ -1,5 +1,4 @@
 $(document).ready(function () {
-    // Inisialisasi DataTable
     var table = $("#myTable").DataTable({
         layout: {
             top1: "searchBuilder",
@@ -28,11 +27,8 @@ $(document).ready(function () {
         console.log("Data yang dikirim:", data);
     });
 
-    // Fungsi untuk memperbarui data DataTable
     function refreshDataTable() {
-        table.ajax.reload(null, false); // Memuat data baru tanpa menghapus data yang ada
+        table.ajax.reload(null, false);
     }
-
-    // Panggil fungsi refreshDataTable setiap 5 detik (atau sesuai kebutuhan)
     setInterval(refreshDataTable, 5000); // Contoh: Setiap 5 detik
 });
