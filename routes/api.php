@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AnfarController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AnlokController;
@@ -27,4 +28,9 @@ Route::prefix('admisi')->group(function () {
     Route::get('last-ticket-print', [AnlokController::class, 'lastTicket']);
     Route::get('last-entry', [AnlokController::class, 'nomorDilayani']);
     Route::post('antrianadmisi', [AnlokController::class, 'antrianAdmisi'])->name('submitLoket');
+});
+
+Route::prefix('farmasi')->group(function () {
+    Route::get('anfar', [AnfarController::class, 'listAnfar']);
+    Route::get('display-anfar', [AnfarController::class, 'displayAnfar']);
 });

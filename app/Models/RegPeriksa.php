@@ -33,4 +33,8 @@ class RegPeriksa extends Model
     {
         return $this->belongsTo(Poliklinik::class, 'kd_poli');
     }
+    public function anfar()
+    {
+        return $this->hasOne(Anfar::class);
+    }
 }
